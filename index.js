@@ -41,13 +41,18 @@ async function run() {
         });
 
         app.get("/products", async (req, res) => {
-            const result = await productsCollection.find().toArray();
+            const size = parseInt(req.query.size);
+            const page = parseInt(req.query.page);
+            const result = await productsCollection
+                .find()
+                .skip(size * page)
+                .limit(size)
+                .toArray();
             res.send(result);
         });
 
         app.get("/count", async (req, res) => {
             const count = await productsCollection.countDocuments();
-            console.log(count);
             res.send({ count });
         });
 
