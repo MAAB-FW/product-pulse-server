@@ -3,7 +3,7 @@ const cors = require("cors");
 require("dotenv").config();
 const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const port = process.env.PORT || 5000;
-
+const products = require("./products.json");
 const app = express();
 
 // middleware
@@ -33,6 +33,12 @@ async function run() {
         // Send a ping to confirm a successful connection
         const db = client.db("ProductPulseDB");
         const productsCollection = db.collection("products");
+
+        app.get("/seed", async (req, res) => {
+            await productsCollection.deleteMany();
+            await productsCollection.insertMany(products);
+            return res.send({ message: "seed successfully" });
+        });
 
         // await client.db("admin").command({ ping: 1 });
         // console.log("Pinged your deployment. You successfully connected to MongoDB!");
