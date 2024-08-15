@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "image": "https://img.freepik.com/free-photo/still-life-tech-device_23-2150722694.jpg?t=st=1723701402~exp=1723705002~hmac=5e4c256d4cb706ccda9f2ed1039d80c394fa28c79576ac8dea62cda83f34bf8f&w=360",
+        "description": "High-quality wireless Bluetooth headphones with noise-cancellation and a comfortable fit.",
+        "price": 99.99,
+        "category": "Electronics",
+        "ratings": 4.5,
+        "createdAt": "2024-08-14T14:30:00Z"
+    },
+    {
+        "name": "Smart LED TV 55-inch",
+        "image": "https://img.freepik.com/free-photo/view-computer-monitor-display_23-2150757335.jpg?t=st=1723701449~exp=1723705049~hmac=2ddd6c1647a4c21b4a8458bcd6ff5a0aeedfe26201ae0ecd185db3de396a6c0d&w=740",
+        "description": "55-inch Smart LED TV with 4K resolution, HDR support, and integrated streaming apps.",
+        "price": 499.99,
+        "category": "Electronics",
+        "ratings": 4.7,
+        "createdAt": "2024-08-13T10:15:00Z"
+    },
+    {
+        "name": "Ergonomic Office Chair",
+        "image": "https://img.freepik.com/free-photo/office-chair-still-life_23-2151149100.jpg?t=st=1723701569~exp=1723705169~hmac=fff40e3a8d4d967369da054d666cc6e78d8a337a6ee0bc542695ad1b5d908323&w=360",
+        "description": "Ergonomic office chair with lumbar support, adjustable height, and breathable mesh back.",
+        "price": 129.99,
+        "category": "Furniture",
+        "ratings": 4.2,
+        "createdAt": "2024-08-12T08:45:00Z"
+    },
+    {
+        "name": "Electric Standing Desk",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2022/11/standingdesks-2048px-7387-3x2-1-1.jpg?auto=webp&quality=75&width=1024",
+        "description": "Adjustable electric standing desk with programmable height settings and sturdy construction.",
+        "price": 299.99,
+        "category": "Furniture",
+        "ratings": 4.8,
+        "createdAt": "2024-08-14T16:00:00Z"
+    },
+    {
+        "name": "Stainless Steel Cookware Set",
+        "image": "https://www.allrecipes.com/thmb/hiWW0-PMqSj-CVj2rCAEzI8oaZw=/fit-in/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/all-clad-d5-brushed-stainless-steel-10-piece-set-f7e537746e2a4a19b434daad97fadc26.jpg",
+        "description": "10-piece stainless steel cookware set with non-stick coating and heat-resistant handles.",
+        "price": 89.99,
+        "category": "Kitchen",
+        "ratings": 4.3,
+        "createdAt": "2024-08-11T12:00:00Z"
+    },
+    {
+        "name": "Gaming Laptop 15-inch",
+        "image": "https://m.media-amazon.com/images/I/81T5GijquOL.jpg",
+        "description": "High-performance gaming laptop with Intel i7 processor, 16GB RAM, and NVIDIA RTX graphics.",
+        "price": 1199.99,
+        "category": "Computers",
+        "ratings": 4.9,
+        "createdAt": "2024-08-10T14:20:00Z"
+    },
+    {
+        "name": "Noise Cancelling Earbuds",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0872.jpg?auto=webp&quality=75&width=1024",
+        "description": "Compact noise-cancelling earbuds with wireless charging and long battery life.",
+        "price": 79.99,
+        "category": "Electronics",
+        "ratings": 4.4,
+        "createdAt": "2024-08-14T09:30:00Z"
+    },
+    {
+        "name": "Portable Power Bank 20000mAh",
+        "image": "https://www.cellularline.com/medias/PBESSENCE20000K-01-MAIN-LR.jpg?context=bWFzdGVyfHJvb3R8MjU0OTExfGltYWdlL2pwZWd8aDJhL2hjYi85NDY0OTk2MDM2NjM4LmpwZ3xiMTRkZGIwY2U5NGQ3N2M3NmJjYjk5MGM4ZWRkY2E2NDA3MTM3ZDExY2IwZGRjZmU1N2I3NzkyN2I3OTk5NTVl",
+        "description": "High-capacity portable power bank with fast charging and multiple USB ports.",
+        "price": 39.99,
+        "category": "Electronics",
+        "ratings": 4.6,
+        "createdAt": "2024-08-13T07:00:00Z"
+    },
+    {
+        "name": "4-Slice Toaster",
+        "image": "https://www.foodandwine.com/thmb/FLNhuvCRIHq-9sKV0kK_ezkMsik=/fit-in/1500x3513/filters:no_upscale():max_bytes(150000):strip_icc()/Food-Wine-BUYDEEM-DT-640-4-SliceToaster-Fred-HardyII-112-d2fd776cf2b04a858e99e183cd608900.jpg",
+        "description": "4-slice toaster with adjustable browning control and defrost function.",
+        "price": 29.99,
+        "category": "Kitchen",
+        "ratings": 4.1,
+        "createdAt": "2024-08-12T11:45:00Z"
+    },
+    {
+        "name": "Waterproof Fitness Tracker",
+        "image": "https://www.smartwareco.com.au/cdn/shop/files/9446706650_1714456581.jpg?v=1718780053&width=800",
+        "description": "Waterproof fitness tracker with heart rate monitor, sleep tracking, and GPS.",
+        "price": 59.99,
+        "category": "Wearables",
+        "ratings": 4.7,
+        "createdAt": "2024-08-14T08:10:00Z"
+    },
+    {
+        "name": "Cordless Vacuum Cleaner",
+        "image": "https://www.realsimple.com/thmb/4K6G4ZQLT5zDaNTMUlGckQZQx4w=/fit-in/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/wowgo-cordless-vacuum-cleaner-bd7daad6d767474d911117ae268cac7a.jpg",
+        "description": "Lightweight cordless vacuum cleaner with powerful suction and detachable handheld unit.",
+        "price": 149.99,
+        "category": "Home Appliances",
+        "ratings": 4.4,
+        "createdAt": "2024-08-11T09:15:00Z"
+    },
+    {
+        "name": "Noise Isolating Gaming Headset",
+        "image": "https://m.media-amazon.com/images/I/71APetaWkpL.jpg",
+        "description": "Over-ear gaming headset with noise isolation, RGB lighting, and clear microphone.",
+        "price": 79.99,
+        "category": "Gaming",
+        "ratings": 4.6,
+        "createdAt": "2024-08-13T14:25:00Z"
+    },
+    {
+        "name": "Compact Digital Camera",
+        "image": "https://m.media-amazon.com/images/I/61vs0A5arcL.jpg",
+        "description": "12MP compact digital camera with optical zoom, image stabilization, and Wi-Fi.",
+        "price": 199.99,
+        "category": "Electronics",
+        "ratings": 4.5,
+        "createdAt": "2024-08-10T16:45:00Z"
+    },
+    {
+        "name": "Air Purifier with HEPA Filter",
+        "image": "https://m.media-amazon.com/images/I/71tpOZEW0eL.jpg",
+        "description": "Air purifier with true HEPA filter, quiet operation, and 3-speed settings.",
+        "price": 129.99,
+        "category": "Home Appliances",
+        "ratings": 4.8,
+        "createdAt": "2024-08-14T13:30:00Z"
+    },
+    {
+        "name": "Smart Thermostat",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2022/11/smartthermostats-2048px-2898-3x2-1.jpg?auto=webp&quality=75&width=1024",
+        "description": "Smart thermostat with remote control, energy-saving features, and easy installation.",
+        "price": 149.99,
+        "category": "Home Automation",
+        "ratings": 4.7,
+        "createdAt": "2024-08-13T17:10:00Z"
+    },
+    {
+        "name": "Wireless Charger Stand",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/31UAEtIOkxL.jpg?quality=50&strip=all",
+        "description": "Fast wireless charger stand compatible with all Qi-enabled devices.",
+        "price": 24.99,
+        "category": "Accessories",
+        "ratings": 4.3,
+        "createdAt": "2024-08-12T10:25:00Z"
+    },
+    {
+        "name": "Smart Light Bulb",
+        "image": "https://www.treatlife.tech/cdn/shop/products/7_982b70d2-9d3b-4f24-b8d9-422f004b9147_1024x1024.jpg?v=1692071988",
+        "description": "Color-changing smart light bulb compatible with Alexa and Google Assistant.",
+        "price": 19.99,
+        "category": "Home Automation",
+        "ratings": 4.6,
+        "createdAt": "2024-08-14T11:20:00Z"
+    },
+    {
+        "name": "Wireless Keyboard and Mouse Combo",
+        "image": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-wireless-keyboard-and-mouse-combo/1b3830093cb9f781683a8ab88ee1c33c.jpg",
+        "description": "Slim wireless keyboard and mouse combo with long battery life and ergonomic design.",
+        "price": 49.99,
+        "category": "Computers",
+        "ratings": 4.4,
+        "createdAt": "2024-08-10T13:00:00Z"
+    },
+    {
+        "name": "Non-Stick Frying Pan",
+        "image": "https://misen.com/cdn/shop/products/TX-NonstickPan-PDP-Static1.png?v=1685630583&width=2000",
+        "description": "12-inch non-stick frying pan with heat-resistant handle and even heat distribution.",
+        "price": 29.99,
+        "category": "Kitchen",
+        "ratings": 4.5,
+        "createdAt": "2024-08-11T15:50:00Z"
+    },
+    {
+        "name": "Digital Air Fryer",
+        "image": "https://m.media-amazon.com/images/I/51zXDL0HckL.jpg",
+        "description": "Digital air fryer with multiple cooking presets and easy-to-clean basket.",
+        "price": 89.99,
+        "category": "Kitchen",
+        "ratings": 4.6,
+        "createdAt": "2024-08-12T14:10:00Z"
+    },
+    {
+        "name": "Portable Speaker with Bluetooth",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81nSo6mPtnL.jpg",
+        "description": "Portable speaker with Bluetooth connectivity, long battery life, and waterproof design.",
+        "price": 59.99,
+        "category": "Electronics",
+        "ratings": 4.4,
+        "createdAt": "2024-08-13T11:45:00Z"
+    },
+    {
+        "name": "Electric Kettle",
+        "image": "https://t3.ftcdn.net/jpg/06/48/33/04/360_F_648330440_Ug9nMSJTwrU3ctPdHSlaClVlAmzoW9I2.jpg",
+        "description": "Electric kettle with fast boiling, automatic shut-off, and stainless steel construction.",
+        "price": 39.99,
+        "category": "Kitchen",
+        "ratings": 4.7,
+        "createdAt": "2024-08-14T07:50:00Z"
+    },
+    {
+        "name": "Adjustable Dumbbells Set",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2023/05/adjustable-dumbbell-2048px-9353.jpg?auto=webp&quality=75&width=1024",
+        "description": "Adjustable dumbbells set with easy weight adjustment and durable construction.",
+        "price": 199.99,
+        "category": "Fitness",
+        "ratings": 4.5,
+        "createdAt": "2024-08-12T16:20:00Z"
+    },
+    {
+        "name": "Wireless Gaming Mouse",
+        "image": "https://m.media-amazon.com/images/I/51WEpMyNNvL.jpg",
+        "description": "High-precision wireless gaming mouse with customizable buttons and RGB lighting.",
+        "price": 59.99,
+        "category": "Gaming",
+        "ratings": 4.8,
+        "createdAt": "2024-08-11T13:40:00Z"
+    },
+    {
+        "name": "Smart Home Security Camera",
+        "image": "https://sm.pcmag.com/t/pcmag_au/review/t/tp-link-ta/tp-link-tapo-indooroutdoor-home-security-wi-fi-camera-c120_crgz.640.jpg",
+        "description": "Smart home security camera with 1080p resolution, night vision, and motion detection.",
+        "price": 99.99,
+        "category": "Home Security",
+        "ratings": 4.6,
+        "createdAt": "2024-08-14T12:00:00Z"
+    },
+    {
+        "name": "Electric Shaver",
+        "image": "https://cdn11.bigcommerce.com/s-pzf4xjtssl/product_images/uploaded_images/braun-malegrooming-series8-shaver.jpg",
+        "description": "Rechargeable electric shaver with precision blades, waterproof design, and fast charging.",
+        "price": 49.99,
+        "category": "Personal Care",
+        "ratings": 4.4,
+        "createdAt": "2024-08-13T18:00:00Z"
+    },
+    {
+        "name": "Coffee Maker with Grinder",
+        "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2022/11/Best-coffee-maker-with-grinder-Breville.jpg?fit=680,800",
+        "description": "Automatic coffee maker with built-in grinder, programmable settings, and thermal carafe.",
+        "price": 149.99,
+        "category": "Kitchen",
+        "ratings": 4.7,
+        "createdAt": "2024-08-10T08:35:00Z"
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2023/01/GettyImages-1040897136-e1674053225589.jpg?w=1440&q=75",
+        "description": "Smart robot vacuum cleaner with app control, scheduling, and powerful suction.",
+        "price": 299.99,
+        "category": "Home Appliances",
+        "ratings": 4.6,
+        "createdAt": "2024-08-12T15:30:00Z"
+    },
+    {
+        "name": "Electric Pressure Cooker",
+        "image": "https://shop.feelcomfee.com/cdn/shop/products/electric-pressure-cooker-7.jpg?v=1666935824&width=1946",
+        "description": "Multifunctional electric pressure cooker with 10 cooking presets and easy-to-clean pot.",
+        "price": 99.99,
+        "category": "Kitchen",
+        "ratings": 4.5,
+        "createdAt": "2024-08-11T07:20:00Z"
+    },
+    {
+        "name": "Bluetooth Car Kit",
+        "image": "https://m.media-amazon.com/images/I/4150TP2RyRL.jpg",
+        "description": "Bluetooth car kit with hands-free calling, music streaming, and dual USB charging ports.",
+        "price": 29.99,
+        "category": "Automotive",
+        "ratings": 4.3,
+        "createdAt": "2024-08-13T16:10:00Z"
+    },
+    {
+        "name": "Digital Picture Frame",
+        "image": "https://pyxis.nymag.com/v1/imgs/7bc/1f8/08aaed93710c81288530a0387974a43dc3.rsquare.w600.jpg",
+        "description": "10-inch digital picture frame with high-resolution display, remote control, and slideshow function.",
+        "price": 79.99,
+        "category": "Home Decor",
+        "ratings": 4.7,
+        "createdAt": "2024-08-14T17:45:00Z"
+    },
+    {
+        "name": "Wireless Smart Doorbell",
+        "image": "https://m.media-amazon.com/images/I/51-7LdcM7vL.jpg",
+        "description": "Wireless smart doorbell with HD video, two-way audio, and motion detection.",
+        "price": 99.99,
+        "category": "Home Security",
+        "ratings": 4.6,
+        "createdAt": "2024-08-10T10:50:00Z"
+    },
+    {
+        "name": "Smart Ceiling Fan",
+        "image": "https://m.media-amazon.com/images/I/416GvwfVmLL.jpg",
+        "description": "Smart ceiling fan with remote control, reversible motor, and energy-efficient design.",
+        "price": 199.99,
+        "category": "Home Automation",
+        "ratings": 4.5,
+        "createdAt": "2024-08-11T12:30:00Z"
+    },
+    {
+        "name": "Adjustable Standing Desk Converter",
+        "image": "https://mount-it.com/cdn/shop/products/adjustable-standing-desk-converter-with-keyboard-tray-115724.jpg?v=1687278221",
+        "description": "Adjustable standing desk converter with large work surface and easy height adjustment.",
+        "price": 99.99,
+        "category": "Office Supplies",
+        "ratings": 4.4,
+        "createdAt": "2024-08-12T18:15:00Z"
+    },
+    {
+        "name": "Portable Hard Drive 1TB",
+        "image": "https://m.media-amazon.com/images/I/41a0RVZvI7L.jpg",
+        "description": "1TB portable hard drive with USB 3.0 connectivity and durable design.",
+        "price": 59.99,
+        "category": "Computers",
+        "ratings": 4.7,
+        "createdAt": "2024-08-14T06:30:00Z"
+    },
+    {
+        "name": "Digital Drawing Tablet",
+        "image": "https://m.media-amazon.com/images/I/319ul5yzZjL.jpg",
+        "description": "Digital drawing tablet with pressure-sensitive stylus, customizable buttons, and large drawing area.",
+        "price": 149.99,
+        "category": "Art Supplies",
+        "ratings": 4.8,
+        "createdAt": "2024-08-13T19:30:00Z"
+    },
+    {
+        "name": "Smart Wi-Fi Plug",
+        "image": "https://img-va.myshopline.com/image/store/1701829637050/96s-2.jpeg?w=1600&h=1600&q=80",
+        "description": "Smart Wi-Fi plug with remote control, energy monitoring, and voice control compatibility.",
+        "price": 19.99,
+        "category": "Home Automation",
+        "ratings": 4.6,
+        "createdAt": "2024-08-12T09:10:00Z"
+    },
+    {
+        "name": "Memory Foam Mattress",
+        "image": "https://m.media-amazon.com/images/I/81rUQb4k5sL.jpg",
+        "description": "Queen-size memory foam mattress with cooling gel layer and medium-firm support.",
+        "price": 399.99,
+        "category": "Furniture",
+        "ratings": 4.7,
+        "createdAt": "2024-08-11T17:00:00Z"
+    },
+    {
+        "name": "Stainless Steel Water Bottle",
+        "image": "https://www.biomestores.com/cdn/shop/products/cheeki-750ml-stainless-steel-water-bottle-silver-9342192004505-bottle-39993165381860.jpg?v=1666068843&width=533",
+        "description": "Insulated stainless steel water bottle with leak-proof lid and wide mouth for easy filling.",
+        "price": 24.99,
+        "category": "Fitness",
+        "ratings": 4.5,
+        "createdAt": "2024-08-10T12:05:00Z"
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "image": "https://www.moft.us/cdn/shop/files/WirelessChargingPad.jpg?v=1695099046&width=1090",
+        "description": "Ultra-slim wireless charging pad with fast charging and non-slip surface.",
+        "price": 29.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "createdAt": "2024-08-14T15:30:00Z"
+    },
+    {
+        "name": "Smartwatch with Fitness Tracking",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/fitbit-inspire-3-pc-cnnu.jpg?c=16x9&q=h_720,w_1280,c_fill",
+        "description": "Smartwatch with fitness tracking, heart rate monitor, and customizable watch faces.",
+        "price": 149.99,
+        "category": "Wearables",
+        "ratings": 4.7,
+        "createdAt": "2024-08-13T09:25:00Z"
+    },
+    {
+        "name": "Portable Air Conditioner",
+        "image": "https://i.pinimg.com/originals/80/30/66/803066333878b137ceb75e1437d21e77.jpg",
+        "description": "Portable air conditioner with remote control, dehumidifier function, and easy installation.",
+        "price": 299.99,
+        "category": "Home Appliances",
+        "ratings": 4.5,
+        "createdAt": "2024-08-11T14:35:00Z"
+    },
+    {
+        "name": "Wireless Earbuds with Charging Case",
+        "image": "https://m.media-amazon.com/images/I/717ckvXvIvL.jpg",
+        "description": "True wireless earbuds with charging case, touch controls, and water resistance.",
+        "price": 79.99,
+        "category": "Electronics",
+        "ratings": 4.3,
+        "createdAt": "2024-08-14T10:40:00Z"
+    },
+    {
+        "name": "Electric Scooter",
+        "image": "https://gotrax.com/cdn/shop/products/g4-electric-scooter-399416.jpg?v=1681768666&width=1500",
+        "description": "Electric scooter with foldable design, long battery life, and LED display.",
+        "price": 499.99,
+        "category": "Outdoor",
+        "ratings": 4.6,
+        "createdAt": "2024-08-12T13:00:00Z"
+    }
+]
