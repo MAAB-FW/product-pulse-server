@@ -45,6 +45,12 @@ async function run() {
             res.send(result);
         });
 
+        app.get("/count", async (req, res) => {
+            const count = await productsCollection.countDocuments();
+            console.log(count);
+            res.send({ count });
+        });
+
         // await client.db("admin").command({ ping: 1 });
         // console.log("Pinged your deployment. You successfully connected to MongoDB!");
     } finally {
