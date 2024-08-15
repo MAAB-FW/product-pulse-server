@@ -35,13 +35,24 @@ async function run() {
         const productsCollection = db.collection("products");
 
         app.get("/seed", async (req, res) => {
-            await productsCollection.deleteMany();
+            await productsCollection.deleiteMany();
             await productsCollection.insertMany(products);
             return res.send({ message: "seed successfully" });
         });
 
         app.get("/products", async (req, res) => {
             const search = req.query.search;
+            const sort = req.query.sort;
+            let options = {};
+            if (sort === "Low to High") {
+                options = { sort: { price: 1 } };
+            }
+            if (sort === "High to Low") {
+                options = { sort: { price: -1 } };
+            }
+            if (sort === "Newest First") {
+                options = { sort: { createdAt: 1 } };
+            }
             let query = {};
             if (search) {
                 query = { name: { $regex: search, $options: "i" } };
@@ -49,7 +60,7 @@ async function run() {
             const size = parseInt(req.query.size);
             const page = parseInt(req.query.page);
             const result = await productsCollection
-                .find(query)
+                .find(query, options)
                 .skip(size * page)
                 .limit(size)
                 .toArray();
