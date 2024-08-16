@@ -6,7 +6,8 @@
         "price": 99.99,
         "category": "Electronics",
         "ratings": 4.5,
-        "createdAt": "2024-08-14T14:30:00Z"
+        "createdAt": "2024-08-14T14:30:00Z",
+        "brand": "Tech Sounds"
     },
     {
         "name": "Smart LED TV 55-inch",
@@ -15,7 +16,8 @@
         "price": 499.99,
         "category": "Electronics",
         "ratings": 4.7,
-        "createdAt": "2024-08-13T10:15:00Z"
+        "createdAt": "2024-08-13T10:15:00Z",
+        "brand": "Vision X"
     },
     {
         "name": "Ergonomic Office Chair",
@@ -24,7 +26,8 @@
         "price": 129.99,
         "category": "Furniture",
         "ratings": 4.2,
-        "createdAt": "2024-08-12T08:45:00Z"
+        "createdAt": "2024-08-12T08:45:00Z",
+        "brand": "Comfy Seat"
     },
     {
         "name": "Electric Standing Desk",
@@ -33,7 +36,8 @@
         "price": 299.99,
         "category": "Furniture",
         "ratings": 4.8,
-        "createdAt": "2024-08-14T16:00:00Z"
+        "createdAt": "2024-08-14T16:00:00Z",
+        "brand": "Elevate Desk"
     },
     {
         "name": "Stainless Steel Cookware Set",
@@ -42,7 +46,8 @@
         "price": 89.99,
         "category": "Kitchen",
         "ratings": 4.3,
-        "createdAt": "2024-08-11T12:00:00Z"
+        "createdAt": "2024-08-11T12:00:00Z",
+        "brand": "Kitchen Pro"
     },
     {
         "name": "Gaming Laptop 15-inch",
@@ -51,7 +56,8 @@
         "price": 1199.99,
         "category": "Computers",
         "ratings": 4.9,
-        "createdAt": "2024-08-10T14:20:00Z"
+        "createdAt": "2024-08-10T14:20:00Z",
+        "brand": "Game Master"
     },
     {
         "name": "Noise Cancelling Earbuds",
@@ -60,7 +66,8 @@
         "price": 79.99,
         "category": "Electronics",
         "ratings": 4.4,
-        "createdAt": "2024-08-14T09:30:00Z"
+        "createdAt": "2024-08-14T09:30:00Z",
+        "brand": "Sound Surge"
     },
     {
         "name": "Portable Power Bank 20000mAh",
@@ -69,7 +76,8 @@
         "price": 39.99,
         "category": "Electronics",
         "ratings": 4.6,
-        "createdAt": "2024-08-13T07:00:00Z"
+        "createdAt": "2024-08-13T07:00:00Z",
+        "brand": "Power Charge"
     },
     {
         "name": "4-Slice Toaster",
@@ -78,7 +86,8 @@
         "price": 29.99,
         "category": "Kitchen",
         "ratings": 4.1,
-        "createdAt": "2024-08-12T11:45:00Z"
+        "createdAt": "2024-08-12T11:45:00Z",
+        "brand": "Toast Master"
     },
     {
         "name": "Waterproof Fitness Tracker",
@@ -87,7 +96,8 @@
         "price": 59.99,
         "category": "Wearables",
         "ratings": 4.7,
-        "createdAt": "2024-08-14T08:10:00Z"
+        "createdAt": "2024-08-14T08:10:00Z",
+        "brand": "Xiaomi"
     },
     {
         "name": "Cordless Vacuum Cleaner",
@@ -96,7 +106,8 @@
         "price": 149.99,
         "category": "Home Appliances",
         "ratings": 4.4,
-        "createdAt": "2024-08-11T09:15:00Z"
+        "createdAt": "2024-08-11T09:15:00Z",
+        "brand": "Clean Force"
     },
     {
         "name": "Noise Isolating Gaming Headset",
@@ -105,7 +116,8 @@
         "price": 79.99,
         "category": "Gaming",
         "ratings": 4.6,
-        "createdAt": "2024-08-13T14:25:00Z"
+        "createdAt": "2024-08-13T14:25:00Z",
+        "brand": "Game Master"
     },
     {
         "name": "Compact Digital Camera",
@@ -114,7 +126,8 @@
         "price": 199.99,
         "category": "Electronics",
         "ratings": 4.5,
-        "createdAt": "2024-08-10T16:45:00Z"
+        "createdAt": "2024-08-10T16:45:00Z",
+        "brand": "Sony"
     },
     {
         "name": "Air Purifier with HEPA Filter",
@@ -123,7 +136,8 @@
         "price": 129.99,
         "category": "Home Appliances",
         "ratings": 4.8,
-        "createdAt": "2024-08-14T13:30:00Z"
+        "createdAt": "2024-08-14T13:30:00Z",
+        "brand": "Levoit"
     },
     {
         "name": "Smart Thermostat",
@@ -132,7 +146,8 @@
         "price": 149.99,
         "category": "Home Automation",
         "ratings": 4.7,
-        "createdAt": "2024-08-13T17:10:00Z"
+        "createdAt": "2024-08-13T17:10:00Z",
+        "brand": "Xiaomi"
     },
     {
         "name": "Wireless Charger Stand",
@@ -141,7 +156,8 @@
         "price": 24.99,
         "category": "Accessories",
         "ratings": 4.3,
-        "createdAt": "2024-08-12T10:25:00Z"
+        "createdAt": "2024-08-12T10:25:00Z",
+        "brand": "Belkin"
     },
     {
         "name": "Smart Light Bulb",
@@ -150,7 +166,8 @@
         "price": 19.99,
         "category": "Home Automation",
         "ratings": 4.6,
-        "createdAt": "2024-08-14T11:20:00Z"
+        "createdAt": "2024-08-14T11:20:00Z",
+        "brand": "TreatLife"
     },
     {
         "name": "Wireless Keyboard and Mouse Combo",
@@ -159,7 +176,8 @@
         "price": 49.99,
         "category": "Computers",
         "ratings": 4.4,
-        "createdAt": "2024-08-10T13:00:00Z"
+        "createdAt": "2024-08-10T13:00:00Z",
+        "brand": "Game Master"
     },
     {
         "name": "Non-Stick Frying Pan",
@@ -168,7 +186,8 @@
         "price": 29.99,
         "category": "Kitchen",
         "ratings": 4.5,
-        "createdAt": "2024-08-11T15:50:00Z"
+        "createdAt": "2024-08-11T15:50:00Z",
+        "brand": "Kitchen Pro"
     },
     {
         "name": "Digital Air Fryer",
@@ -177,7 +196,8 @@
         "price": 89.99,
         "category": "Kitchen",
         "ratings": 4.6,
-        "createdAt": "2024-08-12T14:10:00Z"
+        "createdAt": "2024-08-12T14:10:00Z",
+        "brand": "Kitchen Pro"
     },
     {
         "name": "Portable Speaker with Bluetooth",
@@ -186,7 +206,8 @@
         "price": 59.99,
         "category": "Electronics",
         "ratings": 4.4,
-        "createdAt": "2024-08-13T11:45:00Z"
+        "createdAt": "2024-08-13T11:45:00Z",
+        "brand": "Tech Sounds"
     },
     {
         "name": "Electric Kettle",
@@ -195,7 +216,8 @@
         "price": 39.99,
         "category": "Kitchen",
         "ratings": 4.7,
-        "createdAt": "2024-08-14T07:50:00Z"
+        "createdAt": "2024-08-14T07:50:00Z",
+        "brand": "Kitchen Pro"
     },
     {
         "name": "Adjustable Dumbbells Set",
@@ -204,7 +226,8 @@
         "price": 199.99,
         "category": "Fitness",
         "ratings": 4.5,
-        "createdAt": "2024-08-12T16:20:00Z"
+        "createdAt": "2024-08-12T16:20:00Z",
+        "brand": "Core Home Fitness"
     },
     {
         "name": "Wireless Gaming Mouse",
@@ -213,7 +236,8 @@
         "price": 59.99,
         "category": "Gaming",
         "ratings": 4.8,
-        "createdAt": "2024-08-11T13:40:00Z"
+        "createdAt": "2024-08-11T13:40:00Z",
+        "brand": "Apple"
     },
     {
         "name": "Smart Home Security Camera",
@@ -222,7 +246,8 @@
         "price": 99.99,
         "category": "Home Security",
         "ratings": 4.6,
-        "createdAt": "2024-08-14T12:00:00Z"
+        "createdAt": "2024-08-14T12:00:00Z",
+        "brand": "Xiaomi"
     },
     {
         "name": "Electric Shaver",
@@ -231,7 +256,8 @@
         "price": 49.99,
         "category": "Personal Care",
         "ratings": 4.4,
-        "createdAt": "2024-08-13T18:00:00Z"
+        "createdAt": "2024-08-13T18:00:00Z",
+        "brand": "Series"
     },
     {
         "name": "Coffee Maker with Grinder",
@@ -240,7 +266,8 @@
         "price": 149.99,
         "category": "Kitchen",
         "ratings": 4.7,
-        "createdAt": "2024-08-10T08:35:00Z"
+        "createdAt": "2024-08-10T08:35:00Z",
+        "brand": "Breville"
     },
     {
         "name": "Robot Vacuum Cleaner",
@@ -249,7 +276,8 @@
         "price": 299.99,
         "category": "Home Appliances",
         "ratings": 4.6,
-        "createdAt": "2024-08-12T15:30:00Z"
+        "createdAt": "2024-08-12T15:30:00Z",
+        "brand": "Clean Force"
     },
     {
         "name": "Electric Pressure Cooker",
@@ -258,7 +286,8 @@
         "price": 99.99,
         "category": "Kitchen",
         "ratings": 4.5,
-        "createdAt": "2024-08-11T07:20:00Z"
+        "createdAt": "2024-08-11T07:20:00Z",
+        "brand": "Comfee"
     },
     {
         "name": "Bluetooth Car Kit",
@@ -267,7 +296,8 @@
         "price": 29.99,
         "category": "Automotive",
         "ratings": 4.3,
-        "createdAt": "2024-08-13T16:10:00Z"
+        "createdAt": "2024-08-13T16:10:00Z",
+        "brand": "Xiaomi"
     },
     {
         "name": "Digital Picture Frame",
@@ -276,7 +306,8 @@
         "price": 79.99,
         "category": "Home Decor",
         "ratings": 4.7,
-        "createdAt": "2024-08-14T17:45:00Z"
+        "createdAt": "2024-08-14T17:45:00Z",
+        "brand": "TreatLife"
     },
     {
         "name": "Wireless Smart Doorbell",
@@ -285,7 +316,8 @@
         "price": 99.99,
         "category": "Home Security",
         "ratings": 4.6,
-        "createdAt": "2024-08-10T10:50:00Z"
+        "createdAt": "2024-08-10T10:50:00Z",
+        "brand": "Sound Surge"
     },
     {
         "name": "Smart Ceiling Fan",
@@ -294,7 +326,8 @@
         "price": 199.99,
         "category": "Home Automation",
         "ratings": 4.5,
-        "createdAt": "2024-08-11T12:30:00Z"
+        "createdAt": "2024-08-11T12:30:00Z",
+        "brand": "TreatLife"
     },
     {
         "name": "Adjustable Standing Desk Converter",
@@ -303,7 +336,8 @@
         "price": 99.99,
         "category": "Office Supplies",
         "ratings": 4.4,
-        "createdAt": "2024-08-12T18:15:00Z"
+        "createdAt": "2024-08-12T18:15:00Z",
+        "brand": "MountIt"
     },
     {
         "name": "Portable Hard Drive 1TB",
@@ -312,7 +346,8 @@
         "price": 59.99,
         "category": "Computers",
         "ratings": 4.7,
-        "createdAt": "2024-08-14T06:30:00Z"
+        "createdAt": "2024-08-14T06:30:00Z",
+        "brand": "Vision X"
     },
     {
         "name": "Digital Drawing Tablet",
@@ -321,7 +356,8 @@
         "price": 149.99,
         "category": "Art Supplies",
         "ratings": 4.8,
-        "createdAt": "2024-08-13T19:30:00Z"
+        "createdAt": "2024-08-13T19:30:00Z",
+        "brand": "xencelabs"
     },
     {
         "name": "Smart Wi-Fi Plug",
@@ -330,7 +366,8 @@
         "price": 19.99,
         "category": "Home Automation",
         "ratings": 4.6,
-        "createdAt": "2024-08-12T09:10:00Z"
+        "createdAt": "2024-08-12T09:10:00Z",
+        "brand": "xencelabs"
     },
     {
         "name": "Memory Foam Mattress",
@@ -339,7 +376,8 @@
         "price": 399.99,
         "category": "Furniture",
         "ratings": 4.7,
-        "createdAt": "2024-08-11T17:00:00Z"
+        "createdAt": "2024-08-11T17:00:00Z",
+        "brand": "Comfee"
     },
     {
         "name": "Stainless Steel Water Bottle",
@@ -348,7 +386,8 @@
         "price": 24.99,
         "category": "Fitness",
         "ratings": 4.5,
-        "createdAt": "2024-08-10T12:05:00Z"
+        "createdAt": "2024-08-10T12:05:00Z",
+        "brand": "TreatLife"
     },
     {
         "name": "Wireless Charging Pad",
@@ -357,7 +396,8 @@
         "price": 29.99,
         "category": "Accessories",
         "ratings": 4.4,
-        "createdAt": "2024-08-14T15:30:00Z"
+        "createdAt": "2024-08-14T15:30:00Z",
+        "brand": "Moft"
     },
     {
         "name": "Smartwatch with Fitness Tracking",
@@ -366,7 +406,8 @@
         "price": 149.99,
         "category": "Wearables",
         "ratings": 4.7,
-        "createdAt": "2024-08-13T09:25:00Z"
+        "createdAt": "2024-08-13T09:25:00Z",
+        "brand": "Xiaomi"
     },
     {
         "name": "Portable Air Conditioner",
@@ -375,7 +416,8 @@
         "price": 299.99,
         "category": "Home Appliances",
         "ratings": 4.5,
-        "createdAt": "2024-08-11T14:35:00Z"
+        "createdAt": "2024-08-11T14:35:00Z",
+        "brand": "Smart+"
     },
     {
         "name": "Wireless Earbuds with Charging Case",
@@ -384,7 +426,8 @@
         "price": 79.99,
         "category": "Electronics",
         "ratings": 4.3,
-        "createdAt": "2024-08-14T10:40:00Z"
+        "createdAt": "2024-08-14T10:40:00Z",
+        "brand": "Sound Surge"
     },
     {
         "name": "Electric Scooter",
@@ -393,6 +436,7 @@
         "price": 499.99,
         "category": "Outdoor",
         "ratings": 4.6,
-        "createdAt": "2024-08-12T13:00:00Z"
+        "createdAt": "2024-08-12T13:00:00Z",
+        "brand": "Gotrax"
     }
 ]

@@ -35,7 +35,7 @@ async function run() {
         const productsCollection = db.collection("products");
 
         app.get("/seed", async (req, res) => {
-            await productsCollection.deleiteMany();
+            await productsCollection.deleteMany();
             await productsCollection.insertMany(products);
             return res.send({ message: "seed successfully" });
         });
@@ -75,6 +75,16 @@ async function run() {
             }
             const count = await productsCollection.countDocuments(query);
             res.send({ count });
+        });
+
+        app.get("/categorization", async (req, res) => {
+            const brandNames = await productsCollection
+                .aggregate([{ $group: { _id: "$brand" } }, { $project: { _id: 0, brand: "$_id" } }])
+                .toArray();
+            const categories = await productsCollection
+                .aggregate([{ $group: { _id: "$category" } }, { $project: { _id: 0, category: "$_id" } }])
+                .toArray();
+            res.send({ brandNames, categories });
         });
 
         // await client.db("admin").command({ ping: 1 });
