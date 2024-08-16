@@ -45,6 +45,8 @@ async function run() {
             const sort = req.query.sort;
             const brandName = req.query.brandName;
             const categoryName = req.query.categoryName;
+            const price = parseInt(req.query.price);
+
             let options = {};
             if (sort === "Low to High") {
                 options = { sort: { price: 1 } };
@@ -65,6 +67,9 @@ async function run() {
             if (categoryName) {
                 query.category = categoryName;
             }
+            if (price) {
+                query.price = { $lt: price };
+            }
 
             const size = parseInt(req.query.size);
             const page = parseInt(req.query.page);
@@ -80,6 +85,7 @@ async function run() {
             const search = req.query.search;
             const brandName = req.query.brandName;
             const categoryName = req.query.categoryName;
+            const price = parseInt(req.query.price);
             let query = {};
             if (search) {
                 query.name = { $regex: search, $options: "i" };
@@ -89,6 +95,9 @@ async function run() {
             }
             if (categoryName) {
                 query.category = categoryName;
+            }
+            if (price) {
+                query.price = { $lt: price };
             }
             const count = await productsCollection.countDocuments(query);
             res.send({ count });
