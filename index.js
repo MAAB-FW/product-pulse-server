@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(
     cors({
         origin: ["http://localhost:5173", "https://product-pulse-fw.vercel.app"],
-    }),
+    })
 );
 
 const uri = process.env.MONGODB_URI;
@@ -29,7 +29,7 @@ const client = new MongoClient(uri, {
 async function run() {
     try {
         // Connect the client to the server	(optional starting in v4.7)
-        await client.connect();
+        // await client.connect();
         // Send a ping to confirm a successful connection
         const db = client.db("ProductPulseDB");
         const productsCollection = db.collection("products");
