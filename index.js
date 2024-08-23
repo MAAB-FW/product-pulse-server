@@ -105,10 +105,14 @@ async function run() {
 
         app.get("/categorization", async (req, res) => {
             const brandNames = await productsCollection
-                .aggregate([{ $group: { _id: "$brand" } }, { $project: { _id: 0, brand: "$_id" } }])
+                .aggregate([{ $group: { _id: "$brand" } }, { $project: { _id: 0, brand: "$_id" } }, { $sort: { brand: 1 } }])
                 .toArray();
             const categories = await productsCollection
-                .aggregate([{ $group: { _id: "$category" } }, { $project: { _id: 0, category: "$_id" } }])
+                .aggregate([
+                    { $group: { _id: "$category" } },
+                    { $project: { _id: 0, category: "$_id" } },
+                    { $sort: { category: 1 } },
+                ])
                 .toArray();
             res.send({ brandNames, categories });
         });
